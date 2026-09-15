@@ -1,4 +1,4 @@
-# 🤗 Hugging Face Transformers — Six NLP Tasks with the `pipeline()` API
+# 🤗 Hugging Face Transformers — Six NLP Tasks, Suite sentiment, NER, QA Translation search with pipeline API
 
 A hands-on survey of **six core NLP tasks** — sentiment classification, summarization, named entity recognition, question answering, translation, and semantic search — each solved with a **pretrained transformer model downloaded straight from Hugging Face Hub**, no fine-tuning, no training loop, no API key. Every task is tested against real, messy text: an actual internship acceptance email, a Bollywood movie review, and a Wikipedia-style company profile.
 
