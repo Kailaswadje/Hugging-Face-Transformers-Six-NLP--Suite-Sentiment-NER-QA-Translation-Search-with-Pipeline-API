@@ -1,0 +1,8 @@
+transformers==4.46.3
+datasets>=2.20.0
+sentence-transformers>=3.0.0
+torch>=2.0.0
+pandas>=2.0.0
+jupyter>=1.0.0
+ipython>=8.0.0
+notebook>=7.0.0
